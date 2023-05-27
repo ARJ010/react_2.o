@@ -42,7 +42,7 @@ export default function Teacher(){
   return(
 
     <div>
-    <h1>Teacher</h1>
+    <h1>Teacher Window</h1>
         <input
           type="text"
           onChange={updateStudentId}
